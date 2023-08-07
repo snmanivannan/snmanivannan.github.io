@@ -1,0 +1,611 @@
+{
+    "totalCount": 3587,
+    "data": [ {
+        "s": "NSE:20MICRONS",
+        "d": ["20MICRONS", "20 MICRONS LTD", "", 87426, 9809197.2, 4109819029, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:21STCENMGM",
+        "d": ["21STCENMGM", "21ST CENTURY MANAG", "", 1215, 24907.5, 219554998, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:360ONE",
+        "d": ["360ONE", "360 ONE WAM LTD", "iifl", 27815, 14123066.25, 186059989103, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:3IINFOLTD",
+        "d": ["3IINFOLTD", "3I INFOTECH LTD", "3i-infotech-ltd", 263371, 9099468.05, 5879465374, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:3MINDIA",
+        "d": ["3MINDIA", "3M INDIA LTD", "3m", 686, 19730046, 325671478427, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:3PLAND",
+        "d": ["3PLAND", "3P LAND HOLDINGS L", "", 2182, 43421.8, 351000000, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:4THGEN",
+        "d": ["4THGEN", "FOURTH GENERATION INFORMATION", "", 926, 3389.16, 14058000, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:5PAISA",
+        "d": ["5PAISA", "5PAISA CAPITAL LTD", "5paisa-capital", 22844, 10354043, 14014241239, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:63MOONS",
+        "d": ["63MOONS", "63 MOONS TECHNOLOG", "", 77447, 17801192.95, 11116447048, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:7NR",
+        "d": ["7NR", "7NR RETAIL LIMITED", "", 76036, 50183.76, null, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "BSE:7TEC",
+        "d": ["7TEC", "SAVEN TECHNOLOGIES LTD.", "", 618, 25937.46, 449618672, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:A2ZINFRA",
+        "d": ["A2ZINFRA", "A2Z INFRA ENGINEER", "", 17747, 122454.3, 1208182248, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "NSE:AAATECH",
+        "d": ["AAATECH", "AAA TECHNOLOGIES LTD", "", 2220, 120990, 690082000, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:AADIIND",
+        "d": ["AADIIND", "AADI INDUSTRIES LTD.", "", 2, 7, 36900001, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AAIL",
+        "d": ["AAIL", "AKAR AUTO INDUSTRIES LIMITED", "", 3663, 329670, 948373967, "INR", "Consumer Durables", "india"]
+    }, {
+        "s": "NSE:AAKASH",
+        "d": ["AAKASH", "AAKASH EXPLORATION", "", 73337, 432688.3, 587250000, "INR", "Energy Minerals", "india"]
+    }, {
+        "s": "BSE:AAL",
+        "d": ["AAL", "A-1 ACID LIMITED", "", 5318, 1997174.9, 4325150000, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AANANDALAK",
+        "d": ["AANANDALAK", "AANANDA LAKSHMI SPINNING MILLS", "", 379, 3194.97, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AANCHALISP",
+        "d": ["AANCHALISP", "AANCHAL ISPAT LIMITED", "", 390249, 5752270.26, 369319897, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:AAPLUSTRAD",
+        "d": ["AAPLUSTRAD", "AA PLUS TRADELINK LIMITED", "", 72000, 799200, null, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:AAREYDRUGS",
+        "d": ["AAREYDRUGS", "AAREY DRUGS \u0026 PHARM LTD", "", 98620, 3757422, 1007010352, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:AARNAV",
+        "d": ["AARNAV", "AARNAV FASHIONS LIMITED", "", 14850, 460053, 1297150000, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AARON",
+        "d": ["AARON", "AARON INDUSTRIES LTD", "", 2260, 531665, 2365347774, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AARTECH",
+        "d": ["AARTECH", "AARTECH SOLONICS LTD", "", 2576, 330243.2, null, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "NSE:AARTIDRUGS",
+        "d": ["AARTIDRUGS", "AARTI DRUGS LTD", "aarti-drugs", 814004, 495687735.8, 55087741353, "INR", "Health Technology", "india"]
+    }, {
+        "s": "NSE:AARTIIND",
+        "d": ["AARTIIND", "AARTI IND LTD", "aarti-industries", 866711, 412987791.5, 169452512463, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AARTIPHARM",
+        "d": ["AARTIPHARM", "AARTI PHARMALABS LTD", "", 121807, 42614178.95000001, 31687400000, "INR", "Health Technology", "india"]
+    }, {
+        "s": "NSE:AARTIPP.E1",
+        "d": ["AARTIPP.E1", "AARTI SURFACTANTS LTD", "", 3, 918, 5143702440, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AARVEEDEN",
+        "d": ["AARVEEDEN", "AARVEE DENIMS \u0026 EX", "", 183339, 4445970.75, 517054029, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AARVI",
+        "d": ["AARVI", "AARVI ENCON LTD", "", 4806, 610362, 1900480000, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "BSE:AASHKA",
+        "d": ["AASHKA", "AASHKA HOSPITALS LIMITED", "", 13000, 819000, 1491810000, "INR", "Health Services", "india"]
+    }, {
+        "s": "BSE:AASTAFIN",
+        "d": ["AASTAFIN", "AASTAMANGALAM FINANCE LIMITED", "", 8687, 346437.56, 236375833, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AATMAJ",
+        "d": ["AATMAJ", "AATMAJ HEALTHCARE", "", 44000, 2085600, 1098360000, "INR", "Health Services", "india"]
+    }, {
+        "s": "NSE:AAVAS",
+        "d": ["AAVAS", "AAVAS FINANCIERS L", "aavas-financiers", 93282, 145519920, 122515603798, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:ABAN",
+        "d": ["ABAN", "ABAN OFFSHORE", "", 61135, 2479024.25, 2428581247, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "BSE:ABANSENT",
+        "d": ["ABANSENT", "ABANS ENTERPRISES LTD", "", 14, 2476.6, 2405640000, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:ABB",
+        "d": ["ABB", "ABB INDIA LTD", "abb", 70271, 316841398.35000004, 963420197091, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:ABBOTINDIA",
+        "d": ["ABBOTINDIA", "ABBOTT INDIA LTD", "abbott", 1648, 39337512.8, 512199564640, "INR", "Health Technology", "india"]
+    }, {
+        "s": "NSE:ABCAPITAL",
+        "d": ["ABCAPITAL", "ADITYA BIRLA CAPIT", "aditya-birla-capital", 1839652, 350913619, 508070923571, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ABCGAS",
+        "d": ["ABCGAS", "ABC GAS (INTERNATIONAL) LTD.", "", 515, 19832.65, null, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ABCINDQ",
+        "d": ["ABCINDQ", "ABC INDIA LTD.", "", 3979, 455595.5, 644054714, "INR", "Transportation", "india"]
+    }, {
+        "s": "NSE:ABCOTS",
+        "d": ["ABCOTS", "AB COTSPIN INDIA L", "", 4000, 172200, 444623000, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "NSE:ABFRL",
+        "d": ["ABFRL", "ADITYA BIRLA FASH", "aditya-birla-fash", 851161, 186787281.45, 210492026303, "INR", "Retail Trade", "india"]
+    }, {
+        "s": "BSE:ABHICAP",
+        "d": ["ABHICAP", "ABHINAV CAPITAL SERVICES LTD.", "", 31, 2906.25, 659914413, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ABHIINFRA",
+        "d": ["ABHIINFRA", "ABHISHEK INFRAVENTURES LIMITED", "", 2194, 14392.64, null, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "BSE:ABIRAFN",
+        "d": ["ABIRAFN", "ABIRAMI FINANCIAL SERVICES (IN", "", 788, 18250.08, 138510000, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:ABMINTLLTD",
+        "d": ["ABMINTLLTD", "ABM INTERNATIONAL LTD", "", 200, 9230, 443117000, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "BSE:ABMKNO",
+        "d": ["ABMKNO", "ABM KNOWLEDGEWARE LTD.", "", 820, 84419, 2060426579.9999996, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:ABSLAMC",
+        "d": ["ABSLAMC", "ADIT BIRL SUN LIF AMC LTD", "aditya-birla-sun-life", 21976, 9079384.4, 118052061066, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:ACC",
+        "d": ["ACC", "ACC LTD", "acc", 285972, 569227266, 378654239607, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "BSE:ACCEDERE",
+        "d": ["ACCEDERE", "ACCEDERE LIMITED", "", 106, 7102, 326761506, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "BSE:ACCEL",
+        "d": ["ACCEL", "ACCEL LIMITED", "", 247158, 6579345.96, 1379434722, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:ACCELERATE",
+        "d": ["ACCELERATE", "ACCELERATEBS INDIA LIMITED", "", 107200, 16080000, 272425000, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "NSE:ACCELYA",
+        "d": ["ACCELYA", "ACCELYA SOLUTIONS", "", 6543, 8917781.85, 20287773152, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:ACCURACY",
+        "d": ["ACCURACY", "ACCURACY SHIPPING LTD", "", 114666, 1163859.9, 1558300000, "INR", "Transportation", "india"]
+    }, {
+        "s": "NSE:ACE",
+        "d": ["ACE", "ACTION CONSTRUCT", "action-construct", 79155, 56587909.5, 85811349966, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ACEENGITEC",
+        "d": ["ACEENGITEC", "ACE ENGITECH LIMITED", "", 3, 46.8, null, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:ACEINTEG",
+        "d": ["ACEINTEG", "ACE INTEGRATED SOLU. LTD.", "", 32, 1091.2, 347310000, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:ACEMEN",
+        "d": ["ACEMEN", "ACE MEN ENGG WORKS LIMITED", "", 22, 1248.5, null, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "BSE:ACESOFT",
+        "d": ["ACESOFT", "ACE SOFTWARE EXPORTS LTD.", "", 300, 6450, 102585597, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:ACGL",
+        "d": ["ACGL", "AUTOMOBILE CORPORATION OF GOA", "", 138, 183595.2, 8254954131, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:ACI",
+        "d": ["ACI", "ARCHEAN CHEMICAL IND LTD", "", 188636, 94318000, 64024500000, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:ACIIN",
+        "d": ["ACIIN", "ACI INFOCOM LTD.", "", 553849, 598156.92, 124854714, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ACKNIT",
+        "d": ["ACKNIT", "ACKNIT INDUSTRIES LTD.", "", 170, 43350, 773224009, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "NSE:ACL",
+        "d": ["ACL", "ANDHRA CEMENTS LTD", "", 19996, 2314537, 9656875011, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "BSE:ACME",
+        "d": ["ACME", "ACME RESOURCES LIMITED", "", 102, 2596.92, 668572000, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ACROW",
+        "d": ["ACROW", "ACROW INDIA LTD.", "", 4, 3436, 552256003, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ACTIVE",
+        "d": ["ACTIVE", "ACTIVE CLOTHING CO LIMITED", "", 2, 98, null, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "NSE:ADANIENT",
+        "d": ["ADANIENT", "ADANI ENTERPRISES", "adani", 1288382, 3213224708, 2840654793237, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:ADANIGREEN",
+        "d": ["ADANIGREEN", "ADANI GREEN ENERGY", "adani", 418924, 447725025, 1731505855053, "INR", "Utilities", "india"]
+    }, {
+        "s": "NSE:ADANIPORTS",
+        "d": ["ADANIPORTS", "ADANI PORT SPECIAL", "adani", 1557014, 1188001682, 1680804037814, "INR", "Transportation", "india"]
+    }, {
+        "s": "NSE:ADANIPOWER",
+        "d": ["ADANIPOWER", "ADANI POWER LTD", "adani-power", 2581254, 699907022.0999999, 1053522854706.0002, "INR", "Utilities", "india"]
+    }, {
+        "s": "NSE:ADANITRANS",
+        "d": ["ADANITRANS", "ADANI TRANSMISSION", "adani-transmiss-in", 457596, 365390406, 916711867340, "INR", "Utilities", "india"]
+    }, {
+        "s": "BSE:ADARSHPL",
+        "d": ["ADARSHPL", "ADARSH PLANT PROTECT LTD.", "", 2376, 43956, 183461867, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ADCINDIA",
+        "d": ["ADCINDIA", "ADC INDIA COMMUNICATIONS LIMIT", "", 107, 90420.35, 3885159807, "INR", "Electronic Technology", "india"]
+    }, {
+        "s": "BSE:ADCON",
+        "d": ["ADCON", "ADCON CAPITAL SERVICES LIMITED", "", 67296, 102962.88, 507097078, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ADDIND",
+        "d": ["ADDIND", "ADDI INDUSTRIES LTD.", "", 1288, 44642.08, 372589771, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:ADFFOODS",
+        "d": ["ADFFOODS", "ADF FOODS LTD", "adf-foods", 3612, 3882900, 24052437601, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "BSE:ADIEXRE",
+        "d": ["ADIEXRE", "ADINATH EXIM RESOURCES LTD.", "", 30, 507, null, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ADINATH",
+        "d": ["ADINATH", "ADINATH TEXTILES LTD.", "", 2329, 56501.54, 170358753, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:ADITYA",
+        "d": ["ADITYA", "ADITYA ISPAT LTD.", "", 4365, 36666, 47080000, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "BSE:ADITYASP",
+        "d": ["ADITYASP", "ADITYA SPINNERS LTD.", "", 8700, 188703, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:ADL",
+        "d": ["ADL", "ARCHIDPLY DECOR LIMTED", "", 1545, 120355.5, 457434000, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "BSE:ADMANUM",
+        "d": ["ADMANUM", "AD-MANUM FINANCE LTD.", "", 3273, 140771.73, 326850014, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ADORFO",
+        "d": ["ADORFO", "ADOR FONTECH LTD.", "", 14837, 1925842.6, 4413499947, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ADORMUL",
+        "d": ["ADORMUL", "ADOR MULTIPRODUCTS LTD.", "", 34189, 1046525.29, 157314473, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "NSE:ADORWELD",
+        "d": ["ADORWELD", "ADOR WELDING", "", 30038, 37562519, 17349603628, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:ADROITINFO",
+        "d": ["ADROITINFO", "ADROIT INFOTECH LTD", "", 4293, 77274, 366028695, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "NSE:ADSL",
+        "d": ["ADSL", "ALLIED DIGITAL SER", "allied-digital", 490248, 68683744.8, 8054779725, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:ADVAIT",
+        "d": ["ADVAIT", "ADVAIT INFRATECH LIMITED", "", 6969, 3052422, 4521659791, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:ADVANIHOTR",
+        "d": ["ADVANIHOTR", "ADVANI HOTELS \u0026 RE", "", 8707, 796690.5, 4203178336, "INR", "Consumer Services", "india"]
+    }, {
+        "s": "NSE:ADVENZYMES",
+        "d": ["ADVENZYMES", "ADVANCED ENZYME TE", "advanced-enzymes", 99164, 32317547.6, 36723027656, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "BSE:ADVIKCA",
+        "d": ["ADVIKCA", "ADVIK CAPITAL LIMITED", "", 231128, 473812.4, null, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ADVLIFE",
+        "d": ["ADVLIFE", "ADVANCE LIFESTYLES LTD.", "", 15, 876.45, null, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ADVPETR_B",
+        "d": ["ADVPETR_B", "ADVANCE PETROCHEMICALS LTD.", "", 37, 9250, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AEGISCHEM",
+        "d": ["AEGISCHEM", "AEGIS LOGISTICS", "aegis-logistics", 159220, 60511561, 133783647858.00002, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "BSE:AEL",
+        "d": ["AEL", "AMBA ENTERPRISES LTD.", "", 115437, 10851078, null, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:AEPL",
+        "d": ["AEPL", "ARTEMIS ELECTRICALS AND PROJEC", "", 84778, 1323384.58, 3557193048, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:AERPACE",
+        "d": ["AERPACE", "AERPACE INDUSTRIES LIMITED", "", 365207, 3768936.24, 360502220, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:AETHER",
+        "d": ["AETHER", "AETHER INDUSTRIES LTD", "", 53367, 57908531.7, 137367286327.00002, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AFEL",
+        "d": ["AFEL", "A.F. ENTERPRISES LTD", "", 1852, 12797.32, 98795200, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AFFLE",
+        "d": ["AFFLE", "AFFLE (INDIA) LTD", "affle", 260810, 295171717.5, 142978396088, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:AFFORDABLE",
+        "d": ["AFFORDABLE", "AFFORDABLE ROBOTIC \u0026 AUTOMATIO", "", 3600, 1893960, 5383481086, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AGARIND",
+        "d": ["AGARIND", "AGARWAL INDUSTRIAL", "agarwal-industrial", 23893, 19685442.7, 12566787147, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AGARWAL",
+        "d": ["AGARWAL", "AGARWAL FORTUNE INDIA LIMITED", "", 400, 9208, null, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AGI",
+        "d": ["AGI", "AGI GREENPAC LTD", "hsil-ltd", 96744, 62922297.6, 39989449039, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AGIIL",
+        "d": ["AGIIL", "AGI INFRA LIMITED", "", 410, 235401.5, 6963530188, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:AGIOPAPER",
+        "d": ["AGIOPAPER", "AGIO PAPER \u0026 INDUSTRIES LTD.", "", 200, 580, 50956267, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AGOL",
+        "d": ["AGOL", "ASHAPURI GOLD ORNAMENT LIMITED", "", 49037, 515869.24, 2624850000, "INR", "Consumer Durables", "india"]
+    }, {
+        "s": "NSE:AGRITECH",
+        "d": ["AGRITECH", "AGRI-TECH (INDIA)", "", 27346, 3256908.6, 725867989, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AGROPHOS",
+        "d": ["AGROPHOS", "AGRO PHOS INDIA LTD", "", 19696, 684436, 706552863, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AGSTRA",
+        "d": ["AGSTRA", "AGS TRANSACT TECH LTD", "", 297766, 17806406.8, 7155970000, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "NSE:AGUL",
+        "d": ["AGUL", "A G UNIVERSAL LIMI", "", 6000, 328800, 178731000, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "BSE:AHASOLAR",
+        "d": ["AHASOLAR", "AHASOLAR TECHNOLOGIES LIMITED", "", 155200, 48825920, 879685000, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:AHIMSA",
+        "d": ["AHIMSA", "AHIMSA INDUSTRIES", "", 6000, 90300, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AHL",
+        "d": ["AHL", "ABANS HOLDINGS LTD", "", 13021, 3483768.55, 13441600000, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AHLADA",
+        "d": ["AHLADA", "AHLADA ENGINEERS LTD", "", 3845, 436407.5, 1471055776, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AHLEAST",
+        "d": ["AHLEAST", "ASIAN HOTELS (EAST", "", 1309, 164868.55, 2164920116, "INR", "Consumer Services", "india"]
+    }, {
+        "s": "NSE:AHLUCONT",
+        "d": ["AHLUCONT", "AHLUWALIA CONT LTD", "ahluwalia-cont-ltd", 17260, 12160533, 48475552387, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "BSE:AHMDSTE",
+        "d": ["AHMDSTE", "AHMEDABAD STEELCRAFT LTD.", "", 10, 204.9, 80203202, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AIAENG",
+        "d": ["AIAENG", "AIA ENGINEERING", "aia-engineering", 38780, 134171044, 326107944495, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:AICHAMP",
+        "d": ["AICHAMP", "AI CHAMPDANY INDUSTRIES LTD.", "", 1118, 43847.96, 1094528813, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AIIL",
+        "d": ["AIIL", "AUTHUM INVESTMENT \u0026 INFRASTRUC", "", 5875, 2337662.5, 64337300000, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AILIMITED",
+        "d": ["AILIMITED", "ABHISHEK INTEGRATI", "", 12000, 487200, null, "INR", "Transportation", "india"]
+    }, {
+        "s": "BSE:AIMCOPEST",
+        "d": ["AIMCOPEST", "AIMCO PESTICIDES LTD.", "", 3698, 443760, 1150380698, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AIML",
+        "d": ["AIML", "ALLIANCE INTEGRATED METALIKS L", "", 149982, 3742050.9, 2487397509, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "NSE:AIRAN",
+        "d": ["AIRAN", "AIRAN LTD", "", 148404, 3020021.4, 2531660000, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:AIROLAM",
+        "d": ["AIROLAM", "AIRO LAM LTD", "", 336743, 35896803.8, 1362000046, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "NSE:AIRTELPP.E1",
+        "d": ["AIRTELPP.E1", "BHARTI RS. 1.25 PPD UP", "airtel", 28216, 13683349.2, 5325059064697, "INR", "Communications", "india"]
+    }, {
+        "s": "NSE:AJANTPHARM",
+        "d": ["AJANTPHARM", "AJANTA PHARMA", "ajanta-pharma", 173670, 292955239.5, 213641089157, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:AJANTSOY",
+        "d": ["AJANTSOY", "AJANTA SOYA LTD.", "", 23973, 666449.4, 2235817631, "INR", "Consumer Non-Durables", "india"]
+    }, {
+        "s": "BSE:AJCON",
+        "d": ["AJCON", "AJCON GLOBAL SERVICES LTD.", "", 49, 1438.15, 179816277, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:AJEL",
+        "d": ["AJEL", "AJEL LTD.", "", 606, 5090.4, 93083494, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:AJMERA",
+        "d": ["AJMERA", "AJMERA REALTY \u0026 IN", "", 41495, 16203797.5, 13926039519, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AJOONI",
+        "d": ["AJOONI", "AJOONI BIOTECH LTD", "", 69009, 289837.8, 408311000, "INR", "Miscellaneous", "india"]
+    }, {
+        "s": "NSE:AKASH",
+        "d": ["AKASH", "AKASH INFRA-PROJECTS LTD", "", 7718, 200668, 447700253, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "BSE:AKCAPIT",
+        "d": ["AKCAPIT", "A.K.CAPITAL SERVICES LTD.", "", 227, 116598.55, 3431999950, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:AKG",
+        "d": ["AKG", "AKG EXIM LTD", "", 7476, 224280, 924699000, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:AKI",
+        "d": ["AKI", "AKI INDIA LTD", "", 57127, 1276788.45, 1469120000, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AKSHAR",
+        "d": ["AKSHAR", "AKSHAR SPINTEX LTD", "", 33363, 250222.5, 2034918731, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AKSHARCHEM",
+        "d": ["AKSHARCHEM", "AKSHARCHEM (INDIA)", "", 3155, 770451, 1966101023, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AKSHOPTFBR",
+        "d": ["AKSHOPTFBR", "AKSH OPTIFIBRE", "", 198840, 1928748, 1550511587, "INR", "Electronic Technology", "india"]
+    }, {
+        "s": "BSE:AKSPINTEX",
+        "d": ["AKSPINTEX", "A.K. SPINTEX LTD.", "", 4905, 606258, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AKZOINDIA",
+        "d": ["AKZOINDIA", "AKZO NOBEL INDIA", "akzo-nobel", 5550, 15622140, 126526935073, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:ALANKIT",
+        "d": ["ALANKIT", "ALANKIT LTD", "", 216388, 2369448.6, 2481366940, "INR", "Technology Services", "india"]
+    }, {
+        "s": "BSE:ALANSCOTT",
+        "d": ["ALANSCOTT", "ALAN SCOTT INDUSTRIES LTD.", "", 2518, 112756.04, null, "INR", "Retail Trade", "india"]
+    }, {
+        "s": "NSE:ALBERTDAVD",
+        "d": ["ALBERTDAVD", "ALBERT DAVID", "", 16175, 12293808.75, 4232716765, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:ALCHCORP",
+        "d": ["ALCHCORP", "ALCHEMIST CORPORATION LTD.", "", 112, 1405.6, 61920596, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:ALEMBICLTD",
+        "d": ["ALEMBICLTD", "ALEMBIC LTD", "alembic", 266819, 21665702.8, 21228153402, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:ALEXANDER",
+        "d": ["ALEXANDER", "ALEXANDER STAMPS AND COIN LIMI", "", 10769, 168319.47, null, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:ALFATRAN",
+        "d": ["ALFATRAN", "ALFA TRANSFORMERS LTD.", "", 18013, 727545.07, 384784586, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ALFAVIO",
+        "d": ["ALFAVIO", "ALFAVISION OVERSEAS (INDIA) LT", "", 31399, 627980, 598993982, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:ALFL",
+        "d": ["ALFL", "ABHINAV LEASING \u0026 FINANCE LIMI", "", 2074, 3442.84, null, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:ALICON",
+        "d": ["ALICON", "ALICON CASTALLOY L", "", 90296, 79054148, 13553279411, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:ALKALI",
+        "d": ["ALKALI", "ALKALI METALS LTD", "", 5415, 579405, 1049816313, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:ALKEM",
+        "d": ["ALKEM", "ALKEM LAB LTD", "alkem", 17137, 67451232, 475533921872, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:ALKOSIGN",
+        "d": ["ALKOSIGN", "ALKOSIGN LIMITED", "", 15000, 1430250, 531214203, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:ALKYLAMINE",
+        "d": ["ALKYLAMINE", "ALKYL AMINES", "alkyl-amines", 10907, 26667069.65, 125019583771, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:ALLCARGO",
+        "d": ["ALLCARGO", "ALLCARGO LOGISTICS", "allcargo-logistics", 215539, 65426863.45, 76706141491, "INR", "Transportation", "india"]
+    }, {
+        "s": "NSE:ALLETEC",
+        "d": ["ALLETEC", "ALL E TECHNOLOGIES", "", 8000, 920000, 2296120000, "INR", "Technology Services", "india"]
+    }, {
+        "s": "NSE:ALLSEC",
+        "d": ["ALLSEC", "ALLSEC TECHNOLOGIE", "", 12567, 7477993.35, 9014231602, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "NSE:ALMONDZ",
+        "d": ["ALMONDZ", "ALMONDZ GLOBAL SEC", "", 24507, 2448249.3, 2466987809, "INR", "Finance", "india"]
+    }, {
+        "s": "NSE:ALOKINDS",
+        "d": ["ALOKINDS", "ALOK INDUSTRIES LTD", "alok-industries", 7212293, 111429926.85, 72641472341, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:ALPA",
+        "d": ["ALPA", "ALPA LABORATORIES", "", 527045, 41241271.25, 1472000344, "INR", "Health Technology", "india"]
+    }, {
+        "s": "NSE:ALPHAGEO",
+        "d": ["ALPHAGEO", "ALPHAGEO(INDIA)", "", 7268, 2136792, 1878560963, "INR", "Industrial Services", "india"]
+    }, {
+        "s": "BSE:ALPHAIND",
+        "d": ["ALPHAIND", "ALPHALOGIC INDUSTRIES LIMITED", "", 10800, 1340280, 658426000, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:ALPHALOGIC",
+        "d": ["ALPHALOGIC", "ALPHALOGIC TECHSYS LIMITED", "", 3317, 149928.4, 1638000000, "INR", "Commercial Services", "india"]
+    }, {
+        "s": "BSE:ALPINEHOU",
+        "d": ["ALPINEHOU", "ALPINE HOUSING DEVELOPMENT COR", "", 444, 64402.2, 2535925689, "INR", "Consumer Durables", "india"]
+    }, {
+        "s": "NSE:ALPSINDUS",
+        "d": ["ALPSINDUS", "ALPS INDS", "", 56843, 108001.7, 71187662, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:ALSTONE",
+        "d": ["ALSTONE", "ALSTONE TEXTILES (INDIA) LTD", "", 591453, 384444.45, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:ALUFLUOR",
+        "d": ["ALUFLUOR", "ALUFLUORIDE LTD.", "alufluoride", 25348, 11409134.8, 3356550874, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "BSE:AMAL",
+        "d": ["AMAL", "AMAL LTD.", "", 1253, 322021, 3188948895, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AMARAJABAT",
+        "d": ["AMARAJABAT", "AMARA RAJA BATTERI", "amara-raja", 274498, 174498378.60000002, 108431772915, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:AMARJOTHI",
+        "d": ["AMARJOTHI", "AMARJOTHI SPINNING MILLS LTD.", "", 1596, 296058, 1248074959, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AMARSEC",
+        "d": ["AMARSEC", "AMARNATH SECURITIES LTD", "", 3, 84, 87005801, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:AMBALALSA",
+        "d": ["AMBALALSA", "AMBALAL SARABHAI ENTERPRISES L", "", 133960, 4045592, 2271410762, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:AMBARPIL",
+        "d": ["AMBARPIL", "AMBAR PROTEIN INDUSTRIES LIMIT", "", 339, 66359.25, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AMBER",
+        "d": ["AMBER", "AMBER ENTERPRISES", "amber-enterprises-india", 45828, 110358406.8, 82170582576, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AMBICAAGAR",
+        "d": ["AMBICAAGAR", "AMBICA AGARB AROMA", "", 2543, 87479.2, 598804195, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AMBIKCO",
+        "d": ["AMBIKCO", "AMBIKA COTTON MILL", "ambika-cotton-mill", 8917, 14169558.85, 8874036382, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AMBUJACEM",
+        "d": ["AMBUJACEM", "AMBUJA CEMENTS LTD", "ambuja-cements", 4552034, 2064802622.4, 918857289276, "INR", "Non-Energy Minerals", "india"]
+    }, {
+        "s": "BSE:AMCOIND",
+        "d": ["AMCOIND", "AMCO INDIA LTD.", "", 2, 121.2, 248655008, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AMDIND",
+        "d": ["AMDIND", "AMD INDUSTRIES LTD", "", 12888, 915048, 1330555614, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "NSE:AMEYA",
+        "d": ["AMEYA", "AMEYA PRECISION EN", "", 12000, 457200, 327600000, "INR", "Producer Manufacturing", "india"]
+    }, {
+        "s": "BSE:AMFORG",
+        "d": ["AMFORG", "AMFORGE INDUSTRIES LTD.", "", 15079, 98767.45, 92797513, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:AMINTAN",
+        "d": ["AMINTAN", "AMIN TANNERY LIMITED", "", 50152, 116352.64, null, "INR", "Process Industries", "india"]
+    }, {
+        "s": "NSE:AMIORG",
+        "d": ["AMIORG", "AMI ORGANICS LTD", "ami-organics", 19751, 22574405.45, 41733187282, "INR", "Health Technology", "india"]
+    }, {
+        "s": "BSE:AMITINT",
+        "d": ["AMITINT", "AMIT INTERNATIONAL LTD.", "", 85, 253.3, 56464142, "INR", "Distribution Services", "india"]
+    }, {
+        "s": "NSE:AMJLAND",
+        "d": ["AMJLAND", "AMJ LAND HOLDINGS", "", 12526, 380790.4, 1243529997, "INR", "Finance", "india"]
+    }, {
+        "s": "BSE:AMNPLST",
+        "d": ["AMNPLST", "AMINES \u0026 PLASTICIZERS LTD.", "", 7254, 631460.7, 4825253872, "INR", "Process Industries", "india"]
+    }, {
+        "s": "BSE:AMRAAGRI",
+        "d": ["AMRAAGRI", "AMRAWORLD AGRICO LTD.", "", 153609, 110598.48, 83007002, "INR", "Producer Manufacturing", "india"]
+    }],
+    "params": {
+        "india": {
+            "symbols": {
+                "query": {
+                    "types": ["stock", "fund", "dr"]
+                }
+            },
+            "filter": [{
+                "left": "is_primary",
+                "operation": "equal",
+                "right": true
+            }, {
+                "left": "typespecs",
+                "operation": "has",
+                "right": "common"
+            }, {
+                "left": "type",
+                "operation": "equal",
+                "right": "stock"
+            }, {
+                "left": "active_symbol",
+                "operation": "equal",
+                "right": true
+            }],
+            "sort": {
+                "sortBy": "name",
+                "sortOrder": "asc",
+                "nullsFirst": false
+            },
+            "options": {
+                "lang": "en"
+            }
+        }
+    }
+}
